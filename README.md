@@ -1,5 +1,6 @@
 # Tema do Trabalho: **Formas Geométricas em 3D**
 
+![image](https://github.com/user-attachments/assets/63607b16-1a0c-43be-813e-cf573bbd597b)
 
 ### Link da aplicação:
 https://ailtonleite.github.io/formasgeometricascg/public/geometriacgabc-3.html
